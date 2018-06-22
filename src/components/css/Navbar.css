@@ -1,0 +1,19 @@
+.Navbar {
+    background-color: gainsboro;
+    height: 80px;
+}
+
+li {
+    list-style: none;
+    padding: 2.5%;
+    margin-left: 90%;
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: #EEE;
+}

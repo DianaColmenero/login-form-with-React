@@ -1,0 +1,29 @@
+.form-inline {
+    margin-top: 10%;
+    margin-left: 35%;
+}
+
+.form-group,
+.btn {
+    margin-top: 2em;
+}
+
+input {
+    display: inline-block;
+    width: 25vw;
+    padding: 10px;
+    border: solid 1px #BDC7D8;
+    border-radius: 5px;
+  }
+
+  .btn {
+    background-color: #00BFFF;
+    font-weight: bold;
+    padding: 12px 15px;
+    color: #ffffff;
+    border-radius: 5px;
+  }
+
+  .btn a {
+      text-decoration: none;
+  }
